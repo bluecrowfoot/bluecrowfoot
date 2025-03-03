@@ -1,7 +1,8 @@
 ## 🌱 New to programming
 ## 🐍 Currently learning Python
 
-![alt text]([http://url/to/img.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fotakuusamagazine.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fhunter-x-hunter2011.jpeg&f=1&nofb=1&ipt=741d80ffcbb8113984affee257a7e121160e6f3bfa002e6d946be495c9fbab27&ipo=images))
+![image](https://github.com/user-attachments/assets/d367d330-98a6-44e8-bb44-77effe4c3a44)
+
 
 <!--
 **bluecrowfoot/bluecrowfoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

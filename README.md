@@ -1,9 +1,3 @@
-## 🌱 New to programming
-## 🐍 Currently learning Python
-
-![image](https://github.com/user-attachments/assets/d367d330-98a6-44e8-bb44-77effe4c3a44)
-
-
 <!--
 **bluecrowfoot/bluecrowfoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
